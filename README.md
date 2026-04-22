@@ -1,8 +1,8 @@
-🚀 Coding for Placement – Python Track
+## 🚀 Coding for Placement – Python Track
 
 A comprehensive Python preparation program designed to take you from fundamentals to advanced problem-solving for campus placements and coding interviews.
 
-📚 Overview
+# 📚 Overview
 
 This repository contains structured learning material and problem sets covering:
 
@@ -18,7 +18,7 @@ Infosys
 Cognizant
 Capgemini
 Accenture
-🧠 What You’ll Learn
+# 🧠 What You’ll Learn
 🔹 Core Python Concepts
 Data Types, Variables, Operators
 Input/Output Handling
@@ -36,9 +36,9 @@ Dictionaries & Sets
 Object-Oriented Programming (OOP)
 Exception Handling
 Problem Solving Strategies
-🏗️ Course Structure
+# 🏗️ Course Structure
 
-The program is divided into 18 modules:
+The program is divided into 14 modules:
 
 | Module | Topic |
 | 1	| Python Fundamentals |
@@ -56,7 +56,7 @@ The program is divided into 18 modules:
 | 13 | Problem Solving |
 | 14 | Company Simulations |
 
-💻 Practice Included
+# 💻 Practice Included
 
 Each module contains:
 
@@ -70,19 +70,19 @@ Industry-relevant problems
 Focus on logic building
 Covers interview-level questions
 Hands-on coding practice
-🛠️ Requirements
+# 🛠️ Requirements
 Python 3.10+ (Recommended: Python 3.12)
 Code editor (VS Code / PyCharm)
 
 To check your Python version:
 
 python3 --version
-🚀 How to Use
+# 🚀 How to Use
 Complete all programs
 Solve challenge problems independently
 Move sequentially through modules
 Practice regularly for mastery
-📈 Outcome
+# 📈 Outcome
 
 After completing this track, you will:
 
